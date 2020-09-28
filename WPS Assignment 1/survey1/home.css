@@ -1,0 +1,22 @@
+#section1 {
+    padding-top:50px;
+    height:800px;
+    color: #ffff; 
+    background-color: powderblue;
+    background-size: cover;
+    font-style: italic;
+    }
+
+#section2 {
+    padding-top:50px;
+    height:800px;
+    color: #fff; 
+    background-color: #044986;
+    background-size: cover;
+}
+.heading{
+    font-size: 750%;
+}
+.para{
+    font-size: 500%;
+}

@@ -1,0 +1,57 @@
+
+.heading{
+    font-size: 1000%;
+}
+.para{
+    font-size: 500%;
+}
+.question-container1{
+    
+    background-color: yellow;
+    border-style: double;
+    border-color: rgb(254, 254, 254);
+    box-shadow: black;
+    box-sizing: content-box;
+    border-radius: 20px;
+    padding: 10px;
+    min-width: 700px;
+    max-width: 10000px;
+    background-color: rgb(250, 250, 250);
+    font-size: xx-large;
+
+}
+.question-container1{
+    
+    background-color: white;
+    border-style: double;
+    border-color: rgb(254, 254, 254);
+    box-shadow: black;
+    box-sizing: content-box;
+    border-radius: 20px;
+    padding: 10px;
+    min-width: 700px;
+    max-width: 10000px;
+    background-color: rgb(250, 250, 250);
+
+}
+.centeritems{
+    margin: 0 auto;
+}
+.addquestion{
+    padding: 10px;
+    background-color: white;
+    border-radius: 100px;
+    align-items: center;
+}
+input{
+    padding-left: 10px;
+    border-color: rgb(244, 244, 244);
+    width: auto;
+}
+input[type=text]:focus{
+    border: none;
+    background-color: rgb(236, 231, 234);
+}
+.options{
+    font-size: x-large;
+}
